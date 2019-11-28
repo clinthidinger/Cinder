@@ -31,6 +31,7 @@
 #include "cinder/Exception.h"
 #include "cinder/Utilities.h"
 
+#include <list>
 #include <string>
 #include <vector>
 
